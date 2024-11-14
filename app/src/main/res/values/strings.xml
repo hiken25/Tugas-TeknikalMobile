@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Fmovie</string>
+    <string name="search">Search</string>
+    <string name="detail">Detail Movie</string>
+    <string name="name">Ferdian</string>
+    <string name="email">indonesiab379@gmail.com</string>
+    <string name="university">Institut Sains dan Bisnis Atma Luhur</string>
+    <string name="major">Teknik Informatika</string>
+    <string name="back">Back</string>
+    <string name="delete_favorite">Delete Favorite</string>
+    <string name="add_favorite">Add Favorite</string>
+    <string name="share">Share</string>
+    <string name="empty_favorite">Empty Favorite</string>
+    <string name="empty_item">Empty Item</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_movie">Movie</string>
+    <string name="menu_home">Home</string>
+
+</resources>
